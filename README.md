@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning SvelteKit
 - 📫 Reach me at dinonull#2793
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I like dinosaurs
+- ⚡ Fun fact: I liek dinosar
