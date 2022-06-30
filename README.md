@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on Dinoloader
+- 🔭 I’m working on [Dinoloader](https://github.com/users/dinonull/projects/2/).
 - 🌱 I’m learning Next.js, C++, and Java.
 - 📫 Reach me at dinonull#2793 on Discord or my email dinonull [at] aol [dot] com.
 - 😄 Pronouns: He/Him 
