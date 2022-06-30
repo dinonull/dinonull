@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on Dinoloader
 - 🌱 I’m learning Next.js, C++, and Java.
-- 📫 Reach me at dinonull#2793 on Discord or my email dinonull[at]aol[dot]com.
+- 📫 Reach me at dinonull#2793 on Discord or my email dinonull [at] aol [dot] com.
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like dinosaurs
 ### My Stats
